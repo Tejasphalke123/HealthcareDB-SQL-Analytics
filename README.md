@@ -175,8 +175,6 @@ GROUP BY ProcedureName;
 ## 👨‍💻 Developed By
 
 **Tejas Phalke**  
-Final Year B.E. Student  
-SQL Analytics & IoT-Based Solutions Enthusiast
 
 ---
 
